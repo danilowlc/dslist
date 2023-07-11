@@ -6,16 +6,16 @@
 
 ## AULA 1
 ### O que eu aprendi:
-- #### Conceitos
-1. Sistemas web e recursos
-2. Cliente/servidor, HTTP, JSON
-3. Padrão Rest para API web
-- Estruturação de projeto Spring Rest
-- Entidades e ORM
-- Database seeding
-- Padrão camadas
-- Controller, service, repository
-- Padrão DTO
+1. Conceitos
+- Sistemas web e recursos
+- Cliente/servidor, HTTP, JSON
+- Padrão Rest para API web
+2. Estruturação de projeto Spring Rest
+3. Entidades e ORM
+4. Database seeding
+5. Padrão camadas
+6. Controller, service, repository
+7. Padrão DTO
 
 ![Resultado da requisição Aula 1](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula1.png)
 
