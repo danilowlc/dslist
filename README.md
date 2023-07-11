@@ -4,8 +4,8 @@
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
-** AULA 1 **
-O que eu aprendi:
+## AULA 1
+### O que eu aprendi:
 - Conceitos
 - Sistemas web e recursos
 - Cliente/servidor, HTTP, JSON
