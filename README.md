@@ -4,22 +4,22 @@
 
 ![Modelo de domínio DSList](https://raw.githubusercontent.com/devsuperior/java-spring-dslist/main/resources/dslist-model.png)
 
-**AULA 1**
+** AULA 1 **
 O que eu aprendi:
-• Conceitos
-• Sistemas web e recursos
-• Cliente/servidor, HTTP, JSON
-• Padrão Rest para API web
-• Estruturação de projeto Spring Rest
-• Entidades e ORM
-• Database seeding
-• Padrão camadas
-• Controller, service, repository
-• Padrão DTO
+- Conceitos
+- Sistemas web e recursos
+- Cliente/servidor, HTTP, JSON
+- Padrão Rest para API web
+- Estruturação de projeto Spring Rest
+- Entidades e ORM
+- Database seeding
+- Padrão camadas
+- Controller, service, repository
+- Padrão DTO
 
 ![Resultado da requisição Aula 1](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula1.png)
 
-##Trechos de códigos
+## Trechos de códigos
 ### import.sql
 
 ```sql
