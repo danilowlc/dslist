@@ -6,10 +6,10 @@
 
 ## AULA 1
 ### O que eu aprendi:
-- Conceitos
-- Sistemas web e recursos
-- Cliente/servidor, HTTP, JSON
-- Padrão Rest para API web
+- #### Conceitos
+1. Sistemas web e recursos
+2. Cliente/servidor, HTTP, JSON
+3. Padrão Rest para API web
 - Estruturação de projeto Spring Rest
 - Entidades e ORM
 - Database seeding
