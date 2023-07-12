@@ -16,8 +16,22 @@
 6. Controller, service, repository
 7. Padrão DTO
 
+## AULA 2
+### O que eu aprendi:
+* Relacionamentos N-N
+* Classe de associação, embedded id
+* Consultas SQL no Spring Data JPA
+* Projections
+
 ## Resultado da requisição Aula 1
 ![Resultado da requisição Aula 1](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula1.png)
+
+## Resultado das requisições Aula 2
+![Resultado da requisição Aula 2](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula2.1.png)
+## Resultado das requisições Aula 2.1
+![Resultado da requisição Aula 2.1](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula2.2.png)
+## Resultado das requisições Aula 2.2
+![Resultado da requisição Aula 2.2](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula.2.3.png)
 
 ## Trechos de códigos
 ### import.sql
