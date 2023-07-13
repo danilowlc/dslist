@@ -33,6 +33,19 @@
 ## Resultado das requisições Aula 2.2
 ![Resultado da requisição Aula 2.2](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula.2.3.png)
 
+## AULA 3
+### O que eu aprendi:
+* Dicas de currículo e portfólio
+* Perfis de projeto
+* Ambiente local com Docker Compose
+* Processo de homologação local
+* Processo de deploy com CI/CD
+* Configuração de CORS
+
+## Resultado das requisições Aula 3
+![Deploy Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/banco.png)
+![Banco Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/deploy.png)
+
 ## Trechos de códigos
 ### import.sql
 
