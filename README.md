@@ -42,7 +42,7 @@
 * Processo de deploy com CI/CD
 * Configuração de CORS
 
-## Resultado das requisições Aula 3
+## Resultado das configurações Aula 3
 ![Deploy Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/banco.png)
 ![Banco Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/deploy.png)
 
