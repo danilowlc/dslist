@@ -43,8 +43,8 @@
 * Configuração de CORS
 
 ## Resultado das configurações Aula 3
-![Deploy Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/banco.png)
-![Banco Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/deploy.png)
+![Deploy Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/deploy.png)
+![Banco Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/banco.png)
 
 ## Trechos de códigos
 ### import.sql
