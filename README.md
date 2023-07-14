@@ -46,6 +46,9 @@
 ![Deploy Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/deploy.png)
 ![Banco Aula 3](https://github.com/danilowlc/dslist/blob/main/src/main/resources/banco.png)
 
+## Resultado das requisições Aula 4
+![Resultado da requisição Aula 4](https://github.com/danilowlc/dslist/blob/main/src/main/resources/aula4.png)
+
 ## Trechos de códigos
 ### import.sql
 
